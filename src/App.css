@@ -8,12 +8,12 @@
   }
   
   .header {
-    background-color: yellow;
+    background-color: olive;
   }
   
 
 .followers-column {
-  background-color: red;
+  background-color: violet;
   width: 500px;
   height: 800px;
 }
@@ -24,7 +24,7 @@
 }
 
 .suggested-box {
-  background-color: blue;
+  background-color: orange;
   width: 400px;
   height: 400px;
 }
